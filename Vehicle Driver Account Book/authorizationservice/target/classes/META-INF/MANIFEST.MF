@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 2159643
+Build-Jdk: 17.0.6
+Implementation-Title: authorizationservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cts
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/authorizationservice
+Created-By: Maven Integration for Eclipse
+
